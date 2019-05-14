@@ -2,6 +2,10 @@
 
 最新动态
 
+## 2019.05.14
+
+开始学习Vue(实际上是重新学习)，实现todo list的功能
+
 ## 2019.05.07
 
 JavaLib分为util,result,quartz，1.1.1版本已推送到Maven中央仓库了
