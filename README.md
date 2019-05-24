@@ -2,6 +2,10 @@
 
 最新动态
 
+## 2019.05.24
+
+创建了一个新的开源项目：[App Boot Starter](https://github.com/iutil/app-boot-starter)
+
 ## 2019.05.14
 
 开始学习Vue(实际上是重新学习)，实现todo list的功能
