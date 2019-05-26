@@ -2,6 +2,10 @@
 
 最新动态
 
+## 2019.05.26
+
+将 `JavaLib-result` 换到 `iutil` 下，并更名为 [api-result](https://github.com/iutil/api-result)，包名变为：`net.iutil`，版本为：`1.0.0.BUILD`
+
 ## 2019.05.24
 
 创建了一个新的开源项目：[App Boot Starter](https://github.com/iutil/app-boot-starter)
