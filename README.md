@@ -2,6 +2,12 @@
 
 最新动态
 
+## 2019.05.27
+
+`fengwenyi` 下的几个开源工具包将在 2019年6月1号 删除，新版将移到 `iutil` 下。
+
+最近学习后台管理系统弄得挺烦的。
+
 ## 2019.05.26
 
 将 `JavaLib-result` 换到 `iutil` 下，并更名为 [api-result](https://github.com/iutil/api-result)，包名变为：`net.iutil`，版本为：`1.0.0.BUILD`
