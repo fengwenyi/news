@@ -2,6 +2,16 @@
 
 最新动态
 
+## 2019.06.11
+
+鼓起勇气，终于把程序员的极简后端管理系统 [Vue Admin Pro](https://github.com/fengwenyi/vue-admin-pro) 整理出来了。
+
+开源工具 [JavaLib](https://github.com/iutil/JavaLib) 再整理一下，完善一下文档，本周发布1.0.1版本。
+
+开源接口返回结果解决方案 [api-result](https://github.com/iutil/api-result) 再提供一个简易的方法。
+
+[个人网站](https://fengwenyi.com/)，下一个版本，准备开工，这一次，要达到交互的目的。
+
 ## 2019.06.03
 
 这一周准备好好规划一下JavaLib，1.0.x版本兼容低版本，不再出现不兼容的问题，也准备好好维护。
