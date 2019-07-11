@@ -2,6 +2,10 @@
 
 最新动态
 
+## 2019.07.10
+
+JavaLib 1.0.2版本发布
+
 ## 2019.06.11
 
 鼓起勇气，终于把程序员的极简后端管理系统 [Vue Admin Pro](https://github.com/fengwenyi/vue-admin-pro) 整理出来了。
